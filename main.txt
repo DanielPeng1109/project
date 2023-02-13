@@ -1,1 +1,2 @@
-Add branch as named "func1".
+Add branch as named "test".
+Update by branch "test".
