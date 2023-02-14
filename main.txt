@@ -1,2 +1,4 @@
 Add branch as named "test".
 Update by branch "test".
+
+Modified at the same time to see the conflict for new_persion branch.
